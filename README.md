@@ -1,4 +1,4 @@
-Use 'npm run dev' to start a server usign ViteJS.
+Use 'npm run dev' to start a server using ViteJS.
 
 Design from: https://imgur.com/yGIMGkr
 
