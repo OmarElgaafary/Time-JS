@@ -19,7 +19,7 @@ class TimeStamp {
         const date = new dayjs();
         switch (this.type) {
             case 'Time':
-                this.time = date.format('hh:mm:ss');
+                this.time = date.format('hh:mm:ss A');
                 timeElement.innerHTML = this.time;
                 break;
             case 'Date':
